@@ -3,6 +3,7 @@ graph/models/models.go
 graph/resolvers/*
 ./server.go
 graph/schemas/*
+!graph/schemas/.gitkeep
 ent/*
 !ent/schema
 !ent/generate
