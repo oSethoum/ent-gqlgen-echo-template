@@ -2,7 +2,7 @@
 
 ## generate ent
 
-make sure ent is installed and added to the path.
+- make sure ent is installed and added to the path.
 
 ```sh
 go generate ./...
