@@ -1,6 +1,7 @@
 graph/generated/generated.go
 graph/models/models.go
 graph/resolvers/*
+./server.go
 graph/schemas/*
 ent/*
 !ent/schema
@@ -10,6 +11,7 @@ ent/*
 !graph/resolvers
 !graph/schemas
 ent.sqlite
+server.go
 db
 auth
 handlers
